@@ -5,7 +5,7 @@ a link to the [heading](#heading3)
 
 # another heading
 a
-
+$\sum_A^b \chi^{(2,res)}_{xyz} \frac{\partial f(x)}{\partial x}$
 a
 
 a
