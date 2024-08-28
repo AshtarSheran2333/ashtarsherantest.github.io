@@ -2,6 +2,7 @@
 this is a test
 what should i put here?
 a link to the [heading](#heading3)
+
 a link to a [different file](./linked.md/#heading3)
 # another heading
 a
